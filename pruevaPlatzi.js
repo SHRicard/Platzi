@@ -88,3 +88,11 @@ function persona(name, lastname, nickname) {
       "."
   );
 }
+//¿Qué es una condicional?
+// es una condicion que depediendo el resultado es uno o es otro
+
+//¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+// hay  if , else , else if , tambien operador ternario  y los switch
+
+//¿Puedo combinar funciones y condicionales?
+//si se puede

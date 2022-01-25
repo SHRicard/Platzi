@@ -42,7 +42,7 @@ var posicion = frutas.indexOf("Cereza");
 var frutas = ["Manzana", "Platano", "Cereza", "Fresa"];
 // posicion cereza = 2
 
-//desckarativas
+//desclarativas
 
 function miFunction() {}
 
